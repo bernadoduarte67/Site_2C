@@ -7,7 +7,7 @@ function principal(){
     
     let resultado=num1+num2
 
-    resposta.innerHTML+=``
+    resposta.innerHTML+=''
     resposta.innerHTML+= `A soma dos dois numeros é: ${resultado.toFixed(2)}`
     resposta.style.fontSize="2rem"
 }

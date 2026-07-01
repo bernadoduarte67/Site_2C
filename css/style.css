@@ -18,5 +18,8 @@ input button{
 
 }
 button{
+    background-color: rgb(10, 80, 231);
+    color: rgb(0, 0, 0);
+    padding: 4px;
     border-radius: 10px;
 }

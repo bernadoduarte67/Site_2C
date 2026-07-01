@@ -3,5 +3,6 @@
     padding: 0;
 }
 body{
-    background: linear-gradient(to right,blue,rgb(36, 97, 146),rgb(0, 119, 255));
+    background: linear-gradient(to right,rgb(194, 194, 197),rgb(144, 145, 146),rgb(98, 99, 100));
+    text-align: center;
 }

@@ -23,4 +23,6 @@ button{
     color: rgb(0, 0, 0);
     padding: 4px;
     border-radius: 10px;
+    width: 35px;
+    height: 25px;
 }
